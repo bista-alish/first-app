@@ -2,3 +2,5 @@ pandas
 numpy
 seaborn
 streamlit
+psycopg2-binary
+sqlalchemy
