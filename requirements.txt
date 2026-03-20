@@ -1,8 +1,1 @@
-pandas
-numpy
 seaborn
-matplotlib
-streamlit>=1.26.0
-psycopg2-binary
-sqlalchemy
-altair>=5.0.0
